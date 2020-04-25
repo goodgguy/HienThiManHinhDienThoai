@@ -1,0 +1,2 @@
+# HienThiManHinhDienThoai
+https://github.com/Genymobile/scrcpy?fbclid=IwAR1aaEuAGBcgeGQbnVEkLFKbZcPGRKx3uXq9VvqvhajRB7NwlvlbGzhRZCM
